@@ -10,7 +10,10 @@ The python script can be executed in any code editor with custom input to predic
 
 -------------------------------------------------------------------------------------------------
 Core Azure services used :
-1.Machine Learning
+1.Machine Learning.
+2.Visiual Studio Code
+
+
 Predicting the price of the bike 
 In this we are going to find out the price of a bike .
 For this we have created a ML model that predict the price of the bike should be according to our inputs.
